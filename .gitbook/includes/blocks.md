@@ -1,0 +1,9 @@
+---
+title: blocks
+---
+
+## Виды блоков
+
+Можно собрать страницу из разных блоков. Они разделены на следующие группы:
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image"></th></tr></thead><tbody><tr><td><strong>Текст</strong></td><td>Текстовые блоки и заголовки</td><td><a href="../../site/content/txt.md">txt.md</a></td><td></td><td></td></tr><tr><td><strong>Изображения</strong></td><td>Только изображения или изображения + текст</td><td><a href="../../site/portfolio/photo-requirements.md">photo-requirements.md</a></td><td><a href="../../site/content/crop-photo.md">crop-photo.md</a></td><td></td></tr><tr><td><strong>Видео</strong></td><td>Только видео или видео + текст</td><td><a href="../../site/content/add-video.md">add-video.md</a></td><td></td><td></td></tr><tr><td><strong>Контакты</strong></td><td>Формы обратной связи</td><td></td><td></td><td></td></tr><tr><td><strong>Кнопки</strong></td><td>Только кнопки или кнопки с текстом и изображениями</td><td><a href="../../site/content/button-settings.md">button-settings.md</a></td><td></td><td></td></tr><tr><td><strong>Виджеты</strong></td><td>Готовые виджеты и блоки для вставки HTML-кода</td><td><a href="../../site/widgets/">widgets</a></td><td></td><td></td></tr><tr><td><strong>Слайдеры</strong></td><td>Слайдеры изображений, слайдеры с изображениями и текстом</td><td><a href="../../site/content/slider.md">slider.md</a></td><td></td><td></td></tr><tr><td><strong>Галереи</strong></td><td>Галереи изображений</td><td></td><td></td><td></td></tr><tr><td><strong>Баннеры</strong></td><td>Широкоформатные блоки для видео и изображений</td><td><a href="../../site/content/banner.md">banner.md</a></td><td></td><td></td></tr><tr><td><strong>Разделители</strong></td><td>Отступы и линии</td><td></td><td></td><td></td></tr></tbody></table>
