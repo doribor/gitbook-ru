@@ -4,7 +4,7 @@ description: Как добавить ссылки в виде иконок на 
 
 # Иконки на социальные сети
 
-Чтобы добавить или изменить ссылки-иконки на социальные сети (ВКонтакте, Telegram, YouTube и другие), перейдите в раздел **«Дизайн» → «Социальные сети»**.
+Чтобы добавить или изменить ссылки-иконки на социальные сети (ВКонтакте, Telegram, YouTube, Max и другие), перейдите в раздел **«Дизайн» → «Социальные сети»**.
 
 <figure><img src="../../.gitbook/assets/design social media ru.png" alt=""><figcaption></figcaption></figure>
 
@@ -12,7 +12,7 @@ description: Как добавить ссылки в виде иконок на 
 
 <figure><img src="../../.gitbook/assets/add social media ru.png" alt="" width="364"><figcaption></figcaption></figure>
 
-[Как добавить ссылки на WhatsApp, Telegram или телефон?](../content/messenger-links.md)
+[Как добавить ссылки на WhatsApp, Telegram, Maz или телефон?](../content/messenger-links.md)
 
 ### Где отображаются иконки на сайте
 

@@ -8,7 +8,7 @@ description: >-
 
 Скопируйте ссылки ниже и добавьте номер телефона или никнейм. По ссылке пользователь перейдет в WhatsApp / Telegram или позвонит вам.
 
-{% hint style="success" %}
+{% hint style="info" %}
 Такие ссылки можно [вставить в текст](links.md) на странице сайта, в описание [галереи](../../gallery/projects/easy-start.md) на диске или [товара](../../shop/general/add-product.md) в магазине.
 {% endhint %}
 
@@ -29,6 +29,14 @@ https://t.me/НИКНЕЙМ
 ```
 
 Пример: **`https://t.me/wfolio`**
+
+#### Ссылка на Max <a href="#telegram" id="telegram"></a>
+
+```elixir
+https://max.ru/u/ИДЕНТИФИКАТОР
+```
+
+Пример: **`https://max.ru/u/g3UPkmZ7nQRvTbX48MSypzqhNYLtVCD`**
 
 #### Ссылка на телефон <a href="#phone" id="phone"></a>
 
