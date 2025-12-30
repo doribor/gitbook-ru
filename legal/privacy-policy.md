@@ -22,6 +22,8 @@ description: Как получить согласие на обработку п
 
 * Перейдите в раздел панели управления **«Настройки» → «Правовые настройки»** и нажмите на **«Добавить»**.
 
+<figure><img src="../.gitbook/assets/legal settings ru.png" alt="" width="563"><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/legal privacy policy ru.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * Вставьте текст документа и сохраните изменения.

@@ -18,7 +18,9 @@ description: Как добавить оферту на сайт или обла�
 
 ### Как опубликовать оферту
 
-* Перейдите в раздел настроек **«Правовые настройки»** и нажмите на **«Добавить»**.
+* Перейдите в раздел панели управления **«Настройки» →** **«Правовые настройки»** и нажмите на **«Добавить»**.
+
+<div align="center" data-full-width="false"><figure><img src="../.gitbook/assets/legal settings ru.png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/legal user agreement ru.png" alt="" width="563"><figcaption></figcaption></figure>
 
